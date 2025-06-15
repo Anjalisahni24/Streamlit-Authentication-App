@@ -53,6 +53,7 @@ Streamlit-Authentication-App/
 
 - auth_app.py          # Main Streamlit app
 - database.py          # DB operations (user-defined)
+- Visuals              # Visual Representation via Screenshot
 - requirements.txt     # Python dependencies
 - README.md            # This file
 
