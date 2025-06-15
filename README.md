@@ -1,6 +1,6 @@
 # 🛡️ Streamlit Authentication App
 
-A simple web-based authentication system built with **Streamlit**. Users can **Login**, **Register**, **View**, **Update**, or **Delete** accounts using a sidebar menu. Backend operations are handled via a `database.py` module.
+A simple web-based authentication system built with **Streamlit** based on CRUD - Create, Register, Update and Delete. Users can **Login**, **Register**, **View**, **Update**, or **Delete** accounts using a sidebar menu. Backend operations are handled via a `database.py` module.
 
 ---
 
