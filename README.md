@@ -50,11 +50,11 @@ streamlit run auth_app.py
 
 ### 📂 Project Structure
 Streamlit-Authentication-App/
-│
-├── auth_app.py          # Main Streamlit app
-├── database.py          # DB operations (user-defined)
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
+
+- auth_app.py          # Main Streamlit app
+- database.py          # DB operations (user-defined)
+- requirements.txt     # Python dependencies
+- README.md            # This file
 
 ---
 
