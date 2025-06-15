@@ -27,7 +27,6 @@ A simple web-based authentication system built with **Streamlit**. Users can **L
 
 ### 1️⃣ Clone the repository
 
-```bash
 git clone https://github.com/Anjalisahni24/Streamlit-Authentication-App.git
 cd Streamlit-Authentication-App
 
@@ -71,8 +70,6 @@ The sidebar menu allows easy navigation:
 🔹 Update User Info
 
 🔹 Delete User
-
----
 
 ---
 
